@@ -1,6 +1,6 @@
 cask "opencode-bar" do
-  version "2.7.9"
-  sha256 "56d3925a23861d4eed87fe8ff04ca53a63740fd9d820c4cb6e68cab6738e31fc"
+  version "2.7.10"
+  sha256 "6ba752a748fce887d8f6e47a75b31db925450513b51edebfe3994e7e3409cced"
 
   url "https://github.com/opgginc/opencode-bar/releases/download/v#{version}/OpenCodeUsageMonitor-v#{version}.dmg"
   name "OpenCode Bar"
